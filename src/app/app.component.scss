@@ -1,0 +1,32 @@
+.preview-layout {
+  height: 70px;
+  width: 80%;
+  overflow-y: scroll;
+  background-color: azure;
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  padding: 15px 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+/* change size of editor here*/
+.editor-layout {
+  width: 80%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  margin-left: 20px;
+}
+
+.button {
+  padding: 10px 10px;
+  background-color: #06a706;
+  color: white;
+  margin: 10px 10px;
+}
+
+.button:hover {
+  background-color: #13f113;
+}

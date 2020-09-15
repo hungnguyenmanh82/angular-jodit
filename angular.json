@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "e14-jodit-editor"
+    }
+  },
+  "defaultProject": "e14-jodit-editor",
+  "cli": {
+    "analytics": "0478d89e-a046-4867-ba61-f7e6d9665287"
+  }
 }
